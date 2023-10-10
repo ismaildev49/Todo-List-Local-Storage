@@ -1,0 +1,13 @@
+.todos-conatiner{
+    padding-inline-start: 0;
+    max-width: 300px;
+}
+
+li{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+.delete-button{
+    font-size: 16px;
+}
